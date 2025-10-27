@@ -1,0 +1,12 @@
+# Blender 4.5.3 LTS MTL File: 'Piramides.blend'
+# www.blender.org
+
+newmtl tripo_mat_d378c4c3-5069-4ecb-a42f-76be4e8c25b3
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Piramide de la Venta.jpg

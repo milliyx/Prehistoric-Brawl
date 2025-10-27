@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ace (Chicken Little: Ace in Action Wii)
+* source:	https://sketchfab.com/3d-models/ace-chicken-little-ace-in-action-wii-3219050d4b374489adf7a4465a7a644c
+* author:	pma2 (https://sketchfab.com/pma2)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ace (Chicken Little: Ace in Action Wii)" (https://sketchfab.com/3d-models/ace-chicken-little-ace-in-action-wii-3219050d4b374489adf7a4465a7a644c) by pma2 (https://sketchfab.com/pma2) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

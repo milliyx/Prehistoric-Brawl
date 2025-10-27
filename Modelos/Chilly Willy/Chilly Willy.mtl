@@ -1,0 +1,14 @@
+# Blender 4.5.3 LTS MTL File: 'Chicken Little.blend'
+# www.blender.org
+
+newmtl tripo_mat_c0e1a625-55dd-4b08-8872-115804ca9b46.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd chilly_cuerpo.jpg
+map_Ns chilly_rugosidad.jpg
+map_refl chilly_metallic.jpg
+map_Bump -bm 1.000000 tripo_image_c0e1a625-55dd-4b08-8872-115804ca9b46_2.jpg

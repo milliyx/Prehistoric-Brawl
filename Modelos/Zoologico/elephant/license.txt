@@ -1,0 +1,11 @@
+Model Information:
+* title:	ELEPHANT
+* source:	https://sketchfab.com/3d-models/elephant-888cb879964e4b248f83a42624c0f973
+* author:	Filcomet (https://sketchfab.com/filcomet)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ELEPHANT" (https://sketchfab.com/3d-models/elephant-888cb879964e4b248f83a42624c0f973) by Filcomet (https://sketchfab.com/filcomet) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

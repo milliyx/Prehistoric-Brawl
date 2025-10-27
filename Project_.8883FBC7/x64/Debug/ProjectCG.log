@@ -1,0 +1,11 @@
+﻿  myMain.cpp
+C:\Users\milli\OneDrive\Desktop\ProjectCG\Window.h(13,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "myMain.cpp")
+  
+C:\Users\milli\OneDrive\Desktop\ProjectCG\Window.h(14,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "myMain.cpp")
+  
+C:\Users\milli\OneDrive\Desktop\ProjectCG\myMain.cpp(84,24): warning C4267: 'inicializando': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\milli\OneDrive\Desktop\ProjectCG\myMain.cpp(293,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\milli\OneDrive\Desktop\ProjectCG\myMain.cpp(295,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  ProjectCG.vcxproj -> C:\Users\milli\OneDrive\Desktop\ProjectCG\x64\Debug\Project_ComputerGraphics.exe

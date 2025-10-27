@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ferdinand
+* source:	https://sketchfab.com/3d-models/ferdinand-10c0350758ce4743bba0f4089c77d3ce
+* author:	Eire (https://sketchfab.com/Eire)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ferdinand" (https://sketchfab.com/3d-models/ferdinand-10c0350758ce4743bba0f4089c77d3ce) by Eire (https://sketchfab.com/Eire) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

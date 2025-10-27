@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chicken Little Baseball Player
+* source:	https://sketchfab.com/3d-models/chicken-little-baseball-player-5e0bd47b47554f65bd4a86220ff00a82
+* author:	Jamessmartguy (https://sketchfab.com/skybaca1985)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chicken Little Baseball Player" (https://sketchfab.com/3d-models/chicken-little-baseball-player-5e0bd47b47554f65bd4a86220ff00a82) by Jamessmartguy (https://sketchfab.com/skybaca1985) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

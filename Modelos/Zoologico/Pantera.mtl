@@ -1,0 +1,62 @@
+# Blender 4.5.3 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl Material1-material
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Pantera_baseColor.png
+map_Ke Pantera_baseColor.png
+
+newmtl Material2-material
+Ns 360.000000
+Ka 0.156953 0.156953 0.156953
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd Pantera_baseColor2.png
+
+newmtl Material3-material
+Ns 159.999985
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Pantera_baseColor3.png
+map_Ke Pantera_baseColor3.png
+
+newmtl Material4-material
+Ns 159.999985
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Pantera_baseColor4.png
+map_Ke Pantera_baseColor4.png
+
+newmtl Material5-material
+Ns 159.999985
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Pantera_baseColor5.png
+map_Ke Pantera_baseColor5.png
+
+newmtl Material6-material
+Ns 159.999985
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Pantera_baseColor6.png
+map_Ke Pantera_baseColor6.png
