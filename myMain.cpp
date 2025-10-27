@@ -387,6 +387,11 @@ int main()
 		pos = glm::vec3(10.0f, 35.0f, 25.0f);
 		RenderModel(modelChilly, uniformModel, origen, pos, resources.Chilly_Willy);
 
+		// Lago de hielo
+		pos = glm::vec3(0.0f, 0.0f, 0.0f);
+		RenderModel(modelChilly, uniformModel, origenChilly, pos, resources.Lago);
+		
+
 		// ------------------------------------------------------------------ Universo de Rikoche 
 		
 		// Piramide de Rikoche
@@ -408,7 +413,7 @@ int main()
 		RenderModel(modelTotoro, uniformModel, origen, pos, resources.Totoro);
 
 		// Totoro mediano (Chū-Totoro)
-		pos = glm::vec3(10.0f, 35.0f, 20.0f);
+		pos = glm::vec3(0.0f, 0.0f, 0.0f);
 		RenderModel(modelTotoro, uniformModel, origen, pos, resources.Totoro_mediano);
 
 		// Totoro chiquito (Chibi-Totoro)

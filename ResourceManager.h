@@ -41,7 +41,9 @@ public:
     Model Rikoche;
     Model Totoro, Totoro_mediano, Totoro_chiquito;
 
-    // Modelos de cada universo
+    //Modelos Universo Chilly Willy
+    Model Lago;
+
     
     //...
 };

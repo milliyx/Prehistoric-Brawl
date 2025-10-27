@@ -48,5 +48,9 @@ ResourceManager::ResourceManager() {
 
     // Modelos de cada universo
     
+    //Universo Chilly Willy
+    Lago.LoadModel("Modelos/Chilly Willy/Lago/lago.obj");
+
+    
     //...
 }
