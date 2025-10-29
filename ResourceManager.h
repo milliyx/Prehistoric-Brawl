@@ -43,6 +43,10 @@ public:
 
     //Modelos Universo Chilly Willy
     Model Lago;
+	Model Arbol_Hielo;
+    Model Iglu;
+    Model Anuncio;
+    
 
     
     //...
